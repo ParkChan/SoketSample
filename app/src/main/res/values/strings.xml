@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoketSample</string>
+    <string name="run_socket_service">소켓통신 서비스가 실행중입니다.</string>
+
+</resources>
